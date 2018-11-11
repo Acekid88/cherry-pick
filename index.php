@@ -6,3 +6,7 @@
  * Time: 20:57
  */
 $car = 'BMW';
+
+if ($car === 'BMW'){
+    $type = 'Luxury';
+}
